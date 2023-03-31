@@ -1,5 +1,15 @@
 Introduction: 
-The project is aimed at fitness enthusiast. This project was build using React JS.
+Website Link: https://mygymexercises.netlify.app/
+
+The project is aimed at fitness enthusiast. Technology & tools I used during development.
+• React JS
+• HTML, CSS, JavaScript
+• Rapid API
+• github
+• VS Code
+• Material UI
+• Netlify to host the website.
+
 
 Features:
 • You can find different exercises based on the search.
