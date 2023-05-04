@@ -13,6 +13,7 @@ The project is aimed at fitness enthusiast. Technology & tools I used during dev
 
 Features:
 • You can find different exercises based on the search.
+• There are recommended video for each exercise user choose from youtube.
 • You can find find different exercises based on different different muscle groups.
 • When you click on any exercise , it will show you all the details regarding that exercise.
 • In this section you'll also find the youtube video related to the exercise.
